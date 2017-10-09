@@ -1,0 +1,19 @@
+#wrapper{
+	border-width: 5px;
+	border-style: solid;
+	border-color: red;
+	margin: auto;
+	margin-top: 100px;
+	width: 	648px;
+	height: 460px;
+}
+
+.feed{
+	float: left;
+	border-width: 1px;
+	border-style: solid;
+    border-color: blue;
+	height: 90px;
+	width: 160px;
+
+}
